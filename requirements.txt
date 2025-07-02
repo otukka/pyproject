@@ -1,0 +1,10 @@
+autopep8
+ipykernel
+ipython
+jinja2
+matplotlib
+numba
+numpy
+pandas
+PyQt5
+pytest
